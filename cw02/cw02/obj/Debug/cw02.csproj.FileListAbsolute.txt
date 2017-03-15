@@ -1,0 +1,6 @@
+E:\Zaawansowane_Programowanie\cw02\cw02\bin\Debug\cw02.exe.config
+E:\Zaawansowane_Programowanie\cw02\cw02\obj\Debug\cw02.csprojResolveAssemblyReference.cache
+E:\Zaawansowane_Programowanie\cw02\cw02\bin\Debug\cw02.exe
+E:\Zaawansowane_Programowanie\cw02\cw02\bin\Debug\cw02.pdb
+E:\Zaawansowane_Programowanie\cw02\cw02\obj\Debug\cw02.exe
+E:\Zaawansowane_Programowanie\cw02\cw02\obj\Debug\cw02.pdb
